@@ -1,6 +1,6 @@
+import { Loader2Icon } from "lucide-react";
 import { DEFAULT_LIMIT } from "@/constants";
 import { trpc } from "@/trpc/client";
-import { Loader2Icon } from "lucide-react";
 import { CommentItem } from "./comment-item";
 import { Button } from "@/components/ui/button";
 
